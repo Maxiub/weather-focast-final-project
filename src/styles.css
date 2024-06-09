@@ -86,6 +86,28 @@ main {
   font-size: 20px;
   margin-top: 43px;
 }
+
+.daily-weather-forecast {
+  margin-top: 20px;
+  margin-left: 25px;
+  margin-right: 25px;
+  display: inline-flex;
+  text-align: center;
+}
+
+.daily-weather-forecast-content {
+  display: block;
+}
+
+.daily-weather-forecast-date {
+  font-size: 16px;
+  color: black;
+}
+
+.daily-weather-forecast-min-tempt {
+  opacity: 0.5;
+}
+
 footer {
   border-bottom: 1px solid #f9f7fe;
   padding: 30px 0 0 0;
